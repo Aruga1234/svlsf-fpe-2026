@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.svlsf-fpe-2026.vercel.app/sitemap.xml
